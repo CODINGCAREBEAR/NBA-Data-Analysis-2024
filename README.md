@@ -3,7 +3,7 @@
 This project involves collecting, transforming, and visualizing seasonal NBA data for players and teams from **2004 to 2024**. The data is sourced from [Basketball Reference](https://www.basketball-reference.com/) and the key objectives are to:
 
 - Build Tableau dashboards for player and team stats visualization  
-- Predict NBA awards (MVP, DPOY, ROY, etc.) using ML models and visualize player comparisons for those up for awards
+- Predict NBA awards (MVP, DPOY, ROY, etc.) using ML models and visualize player comparisons for players considered for awards
 - Analyze trends across 20+ years of NBA history  
 
 ---
