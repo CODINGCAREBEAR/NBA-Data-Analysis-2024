@@ -1,4 +1,4 @@
-# 🏀 NBA PostgreSQL Database (2004–2025)
+# 🏀 NBA Data Analysis (2004–2024)
 
 This project involves collecting, transforming, and visualizing seasonal NBA data for players and teams from **2004 to 2024**. The data is sourced from [Basketball Reference](https://www.basketball-reference.com/) and the key objectives are to:
 
