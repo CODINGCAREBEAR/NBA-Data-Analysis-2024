@@ -11,7 +11,12 @@ This project involves collecting, transforming, and visualizing seasonal NBA dat
 ## 🔗 Live Dashboard
 
 View the Tableau dashboards here:  
-[🔍 NBA Tableau Dashboards](https://public.tableau.com/app/profile/carey.harrell/viz/NBAPlayerAnalysis_17104712376710/PlayerOverTime)
+[🔍 NBA Player Stats](https://public.tableau.com/app/profile/carey.harrell/viz/NBAPlayerAnalysis_17104712376710/PlayerOverTime)
+[🔍 NBA Award Prediction Using Machine Learning](https://public.tableau.com/app/profile/carey.harrell/viz/NBAAwardsPrediction/PlayerOverTime)
+[🔍 NBA Award Historical Analysis](https://public.tableau.com/app/profile/carey.harrell/viz/NBAAwardsAnalysis/PlayerOverTime)
+[🔍 NBA League Trends](https://public.tableau.com/app/profile/carey.harrell/viz/NBALeagueTrends/PlayerOverTime)
+
+I later developed a Power BI dashboard equivalent for player stats that can be found here:
 
 ---
 
