@@ -29,7 +29,7 @@ This project is organized into several directories and key files for efficient d
 |--------------------------------------------|-----------------------------------------------------------------------------|
 | `Complete NBA Analysis.ipynb`              | Main Jupyter notebook for compiling and analyzing NBA data                 |
 | `NBA Player Awards/`                        | Contains award data such as MVP, DPOY, ROY, 6MAN, MIP, All-NBA, etc.       |
-| `NBA Playoff Results/    | Playoff performance results and team standings                             |
+| `NBA Playoff Results/Playoff Standings'    | Playoff performance results and team standings                             |
 | `NBA Rookies/`                              | Data related to rookie seasons and special rookie notes                    |
 | `NBA Standings/`                            | Year-by-year regular season team standings                                 |
 | `Player Stats/`                             | Full breakdown of player statistics (basic, advanced, shooting, play-by-play) |
