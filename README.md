@@ -17,7 +17,7 @@ View the Tableau dashboards here:
 - [🔍 NBA League Trends](https://public.tableau.com/app/profile/carey.harrell/viz/NBALeagueTrends/PlayerOverTime)
 
 I later developed a Power BI dashboard equivalent for player stats that can be found here:
-- [🔍 NBA Player Stats](https://app.powerbi.com/view?r=eyJrIjoiMDUxNmVjNGYtNzQ3My00OGUxLWFhYTMtMjc3NDk5OTEwYmNlIiwidCI6IjljZjNkNGIxLTBiZTYtNGI4NS1iOTVkLWY4NjRkMmUxN2Q2OCIsImMiOjF9)
+- [🔍 NBA Player Stats](https://app.powerbi.com/view?r=eyJrIjoiODU1MjE2MGQtOTk1ZC00N2UwLTk5ZTUtMTMwZTUxOTFkMzJjIiwidCI6IjljZjNkNGIxLTBiZTYtNGI4NS1iOTVkLWY4NjRkMmUxN2Q2OCIsImMiOjF9)
 
 ---
 
